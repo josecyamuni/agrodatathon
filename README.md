@@ -1,1 +1,1 @@
-# agrodatathon
+Este proyecto se enfoca en la optimización de la producción de lechugas hidropónicas mediante el uso de técnicas de aprendizaje automático. Se entrenó una red neuronal para clasificar la calidad de las lechugas y detectar deficiencias nutricionales (nitrógeno, fósforo y potasio). El objetivo es contribuir a la eficiencia agrícola mediante la reducción de consumo de agua y el aumento de productividad.
